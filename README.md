@@ -1,7 +1,7 @@
 # awesome-aidj
 selective list of research publication on AI DJ
 
-"From raw audio to a seamless mix- creating an automated DJ system for Drum and Bass," JASMP 2018 
+<mark> "From raw audio to a seamless mix- creating an automated DJ system for Drum and Bass," JASMP 2018 </mark>
 * paper: https://asmp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13636-018-0134-8
 * code: https://bitbucket.org/ghentdatascience/dj/src/master/
 * focusing on the `drum-and-bass` genre
