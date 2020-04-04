@@ -1,5 +1,5 @@
 # awesome-aidj
-list of related work on AI DJ research
+selective list of research publication on AI DJ
 
 "From raw audio to a seamless mix- creating an automated DJ system for Drum and Bass," JASMP 2018 
 * paper: https://asmp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13636-018-0134-8
